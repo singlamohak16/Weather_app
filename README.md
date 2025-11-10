@@ -25,7 +25,7 @@ https://openweathermap.org/current
 
 - **To get 5 day forecast** :-  https://openweathermap.org/forecast5
 
-## Getting Started
+## Getting Started.
 
 To get a local copy up and running, follow these simple steps.
 
